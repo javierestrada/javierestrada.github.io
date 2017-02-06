@@ -626,12 +626,21 @@ h6,
 #header6-1b .mbr-section-text {
   color: #565656;
 }
+#header6-1b .mbr-section-text B {
+  color: #000000;
+}
 #features7-14 .card-subtitle {
   color: #bcbcbc;
 }
 #features7-14 .iconbox {
   background-color: #c0a375;
   border-color: #c0a375;
+}
+#features7-14 P {
+  color: #bfa44b;
+}
+#features7-14 B {
+  color: #c0a375;
 }
 #ext_menu-12 .hide-buttons .nav-btn {
   display: none !important;
