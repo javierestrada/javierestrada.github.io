@@ -610,17 +610,9 @@ h6,
   color: #c0a375!important;
 }
 
+
 #msg-box5-1 H3 {
   font-family: 'Oxygen', sans-serif;
-}
-#header6-1b .mbr-section-title {
-  color: #28262b;
-}
-#header6-1b .mbr-section-text {
-  color: #565656;
-}
-#header6-1b .mbr-section-text B {
-  color: #000000;
 }
 #features7-14 .card-subtitle {
   color: #bcbcbc;
@@ -634,6 +626,10 @@ h6,
 }
 #features7-14 B {
   color: #c0a375;
+}
+#content1-1l DIV {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 25px;
 }
 #ext_menu-12 .hide-buttons .nav-btn {
   display: none !important;
