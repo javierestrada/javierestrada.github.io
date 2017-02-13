@@ -473,17 +473,6 @@
     }
     });
 
-    //Fix menu for Mobile Phones 
-    
-    var agentIndex = function(name) {
-        return this.navigator.userAgent.indexOf(name);
-    };
-    var isMobile = (agentIndex('Mobile') != -1 || ((agentIndex('Android') != -1) && (agentIndex('Browser') != -1)));
-      if(isMobile){
-        $('.hamburger-icon').css({'width':'30px', 'height':'3px', 'background-color':'#fff', 'box-shadow':'none', 'position':'relative'}).addClass('hamburger-om');
-        $('.mbr-arrow img').css({'top':'20px', 'right':'13px'});
-    }
-
 })(jQuery);
 !function() {
     try {
@@ -493,7 +482,7 @@
         var e = document.createElement("section");
         e.id = "top-1";
         e.className = "engine";
-        e.innerHTML = '<a href="https://mobirise.com">mobirise.com</a> Mobirise v3.10.4';
+        e.innerHTML = '<a href="https://mobirise.com">mobirise.com</a> Mobirise v3.10.5';
         document.body.insertBefore(e, document.body.childNodes[0]);
     }
 }();
