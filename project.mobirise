@@ -21,14 +21,14 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 66,
+    "uniqCompNum": 69,
     "versionPublish": "3.10.4",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
     "Adobe Illustrator.html": {
       "settings": {
-        "title": "",
+        "title": "Javier Estrada",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -429,7 +429,7 @@
     },
     "Word.html": {
       "settings": {
-        "title": "",
+        "title": "Javier Estrada",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -830,7 +830,7 @@
     },
     "123Design.html": {
       "settings": {
-        "title": "",
+        "title": "Javier Estrada",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -929,7 +929,8 @@
     },
     "contact page.html": {
       "settings": {
-        "order": 6
+        "order": 6,
+        "title": "Javier Estrada"
       },
       "components": [
         {
@@ -1080,7 +1081,8 @@
     },
     "Adobe Photoshop.html": {
       "settings": {
-        "order": 7
+        "order": 7,
+        "title": "Javier Estrada"
       },
       "components": [
         {
@@ -1245,8 +1247,48 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/javier-estrada-beatles-display-rough-draft-done-1-2000x4000-800x1600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/javier-estrada-beatles-display-rough-draft-done-1-2000x4000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/javier-estrada-edvard-munch-the-scream-version-2-2000x2333-47-800x933-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/javier-estrada-edvard-munch-the-scream-version-2-2000x2333-47.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/javier-estrada-edvard-munch-the-scream3-2000x2333-88-800x933-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/javier-estrada-edvard-munch-the-scream3-2000x2333-88.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/javier-estrada-edvard-munch-the-scream4-2000x2333-47-800x933-20.jpg",
+                "image": "@PROJECT_PATH@/assets/images/javier-estrada-edvard-munch-the-scream4-2000x2333-47.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/javier-estrada-edvard-munch-the-scream5-2000x2333-41-800x933-96.jpg",
+                "image": "@PROJECT_PATH@/assets/images/javier-estrada-edvard-munch-the-scream5-2000x2333-41.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/javier-estrada-edvard-munch-the-scream6-2000x2333-56-800x933-37.jpg",
+                "image": "@PROJECT_PATH@/assets/images/javier-estrada-edvard-munch-the-scream6-2000x2333-56.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1268,7 +1310,7 @@
     "bio.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Javier Estrada",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1280,23 +1322,38 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "content2",
+          "_anchor": "content2-4",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "\"The good man is the man who, no matter morally unworthy he has been, is moving to become better.\" = John Dewey"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "msg-box5-1",
+          "_anchor": "msg-box5-1v",
           "_params": {
-            "imageSize": "50",
-            "paddingTop": "3",
-            "paddingBottom": "1",
+            "imageSize": 50,
+            "paddingTop": "7",
+            "paddingBottom": "0",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/layout-2000x2406-91.jpg",
-            "bgColor": "#eb6b56",
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/javier-2000x2664-27.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -1313,7 +1370,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/javier-1400x1865.jpg",
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1453574503519-1ae2536262ec-1400x933-71.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1332,21 +1389,42 @@
             }
           },
           "title": "Javier Estrada, Biography",
-          "text": "My name is Javier Estrada. I am a student at Miami Arts Studio and my magnet program is Technology Production. I am learning how to use the Adobe apps like Photoshop, Illustrator etc.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content7-3\" data-toolbar=\"-mbrBtnMove\">Continue Biography</a>"
+          "text": "I am Javier Estrada. I am a student at Miami Arts Studio and my magnet program is Technology Production. I am learning the use of the Adobe apps liek Photoshop, Illustrator etc.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"bio.html#content7-3\" data-toolbar=\"-mbrBtnMove\">Continue Biography</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
-          "_anchor": "content2-4",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1w",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1470790376778-a9fbc86d70e2-2000x2872-83.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
-          "text": "\"The good man is the man who, no matter morally unworthy he has been, is moving to become better.\" = John Dewey"
+          "title": "<br>",
+          "text": "<p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_inherit": "features4",
@@ -1604,7 +1682,34 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bio.html\" aria-expanded=\"false\">I<em>ntroduction&nbsp;</em></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Application</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Adobe Photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\" aria-expanded=\"false\"></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\" aria-expanded=\"false\">Adobe Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Adobe Photoshop.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://javierestrada.github.io/pictures/DiscussITTopic6.pdf\" target=\"_blank\">DiscussIT Topic 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123Design.html\" aria-expanded=\"false\">123Design<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Credentials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate, Technology Production teacher<br>Administrator/Counselor<br>Friend of family</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact page.html\">Contacts</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bio.html\" aria-expanded=\"false\">I<em>ntroduction&nbsp;</em></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Application</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Adobe Photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\" aria-expanded=\"false\"></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\" aria-expanded=\"false\">Adobe Illustrator</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Adobe Photoshop.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://javierestrada.github.io/pictures/DiscussITTopic6.pdf\" target=\"_blank\">DiscussIT Topic 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123Design.html\" aria-expanded=\"false\">123Design<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Credentials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate, Technology Production teacher<br>Administrator/Counselor<br>Friend of family</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact page.html\">Contacts</a></li>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1u",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCVw7TlSm6aI4RsOIWKoGKEQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_tags": [
@@ -1709,7 +1814,8 @@
     },
     "index.html": {
       "settings": {
-        "order": 4
+        "order": 4,
+        "title": "Javier Estrada"
       },
       "components": [
         {
@@ -1797,7 +1903,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bio.html\" aria-expanded=\"false\">I<em>ntroduction&nbsp;</em></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Application</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Adobe Photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\" aria-expanded=\"false\"></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\" aria-expanded=\"false\">Adobe Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Adobe Photoshop.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://javierestrada.github.io/pictures/DiscussITTopic6.pdf\" target=\"_blank\">DiscussIT Topic 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123Design.html\" aria-expanded=\"false\">123Design<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Credentials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate, Technology Production teacher<br>Administrator/Counselor<br>Friend of family</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact page.html\">Contacts</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bio.html\" aria-expanded=\"false\">I<em>ntroduction&nbsp;</em></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Application</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Adobe Photoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\" aria-expanded=\"false\"></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\" aria-expanded=\"false\">Adobe Illustrator</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Adobe Photoshop.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://javierestrada.github.io/pictures/DiscussITTopic6.pdf\" target=\"_blank\">DiscussIT Topic 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123Design.html\" aria-expanded=\"false\">123Design<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Credentials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate, Technology Production teacher<br>Administrator/Counselor<br>Friend of family</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact page.html\">Contacts</a></li>"
         },
         {
           "_tags": [

@@ -736,9 +736,15 @@ h6,
   color: #c0a375!important;
 }
 
-
-#msg-box5-1 H3 {
-  font-family: 'Oxygen', sans-serif;
+#msg-box5-1v H3 {
+  color: #ffffff;
+}
+#msg-box5-1v P {
+  color: #ffffff;
+}
+#msg-box8-1w .mbr-section-title,
+#msg-box8-1w p {
+  color: #fff;
 }
 #features7-14 .card-subtitle {
   color: #bcbcbc;
@@ -817,6 +823,10 @@ h6,
 #ext_menu-12 .link[aria-expanded="true"],
 #ext_menu-12 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#social-buttons4-1u .mbr-section-title,
+#social-buttons4-1u .btn-social {
+  color: #fff;
 }
 
 #ext_menu-1n .hide-buttons .nav-btn {
