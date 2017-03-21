@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 72,
+    "uniqCompNum": 73,
     "versionPublish": "3.10.4",
     "path": "@PROJECT_PATH@"
   },
@@ -1339,80 +1339,6 @@
       },
       "components": [
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-4",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "\"The good man is the man who, no matter morally unworthy he has been, is moving to become better.\" = John Dewey"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "msg-box5-1v",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "7",
-            "paddingBottom": "0",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/javier-2000x2664-27.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1453574503519-1ae2536262ec-1400x933-71.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Javier Estrada, Biography",
-          "text": "I am Javier Estrada. I am a student at Miami Arts Studio and my magnet program is Technology Production. I am learning the use of the Adobe apps liek Photoshop, Illustrator etc.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"bio.html#content7-3\" data-toolbar=\"-mbrBtnMove\">Continue Biography</a>"
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -1422,13 +1348,13 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-1w",
+          "_anchor": "msg-box8-20",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1470790376778-a9fbc86d70e2-2000x2872-83.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/javier-2000x2664-27-2000x2664-30.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1442,8 +1368,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "<br>",
-          "text": "<p><br></p>",
+          "title": "Javier Estrada, Biography",
+          "text": "<p>I am Javier Estrada. I am a student at Miami Arts Studio and my magnet program is Technology Production. I am learning the use of the Adobe apps lik Photoshop, Illustrator etc..</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1639,10 +1565,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1674,7 +1600,7 @@
           "_anchor": "ext_menu-12",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1769,14 +1695,15 @@
           "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
               "name": "phone",
-              "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "active": true,
+              "size": "1"
             }
           },
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "text2": "",
           "media2": {
             "iconFont": {
               "active": true,
@@ -1786,30 +1713,31 @@
               "family": "et-line"
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "15015 SW 24th Street, Miami, FL 33185",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
               "name": "envelope",
-              "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "active": true,
+              "size": "1"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
+          "text4": "",
           "title1": "Categories",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a>&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
+          "text6": "<p><strong>Contacts</strong><br>Email: jestrada@miamiartsstudi.com<br>Phone: +1 &nbsp;786 602 6338<br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></p>",
           "form": {
             "title": "MESSAGE",
             "action": "jestrada@miamiartsstudio.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you for filling out this form!"
             },
             "fields": {
               "name": {
                 "title": "Name",
-                "visible": false,
+                "visible": true,
                 "customTitle": "Name*"
               },
               "email": {
@@ -1819,7 +1747,7 @@
               },
               "phone": {
                 "title": "Phone",
-                "visible": false,
+                "visible": true,
                 "customTitle": "Phone"
               },
               "message": {

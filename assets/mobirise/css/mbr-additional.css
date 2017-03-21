@@ -736,14 +736,8 @@ h6,
   color: #c0a375!important;
 }
 
-#msg-box5-1v H3 {
-  color: #ffffff;
-}
-#msg-box5-1v P {
-  color: #ffffff;
-}
-#msg-box8-1w .mbr-section-title,
-#msg-box8-1w p {
+#msg-box8-20 .mbr-section-title,
+#msg-box8-20 p {
   color: #fff;
 }
 #features7-14 .card-subtitle {
@@ -781,11 +775,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-12 .link {
-  font-size: 0.75rem;
+  font-size: 0.7rem;
 }
 #ext_menu-12 .dropdown-item,
 #ext_menu-12 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.758rem;
 }
 #ext_menu-12 .link:hover,
 #ext_menu-12 .dropdown-item:hover,
