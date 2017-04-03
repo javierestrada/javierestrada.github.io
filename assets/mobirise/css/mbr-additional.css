@@ -888,6 +888,13 @@ h6,
   font-family: 'Oswald', sans-serif;
   color: #b8312f;
 }
+#msg-box3-22 .mbr-section-title,
+#msg-box3-22 p {
+  color: #000;
+}
+#msg-box3-22 .mbr-section-title {
+  color: #fac51c;
+}
 #ext_menu-1z .hide-buttons .nav-btn {
   display: none !important;
 }
