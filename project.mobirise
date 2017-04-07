@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 75,
+    "uniqCompNum": 76,
     "versionPublish": "3.10.4",
     "path": "@PROJECT_PATH@"
   },
@@ -1887,7 +1887,7 @@
           },
           "title": "Welcome to my website!",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"bio.html\" data-toolbar=\"-mbrBtnMove\">Come on in!</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"bio.html\" data-toolbar=\"-mbrBtnMove\">Come on in!</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"bio.html\" data-toolbar=\"-mbrBtnMove\">My Imagine Dragons Video</a>   "
         },
         {
           "_inherit": "msg-box8",
