@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Javier Estrada",
-    "currentPage": "bio.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 76,
-    "versionPublish": "3.10.5",
+    "versionPublish": "3.10.4",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
@@ -1887,7 +1887,7 @@
           },
           "title": "Welcome to my website!",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"bio.html\" data-toolbar=\"-mbrBtnMove\">Come on in!</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"bio.html\" data-toolbar=\"-mbrBtnMove\">My Imagine Dragons Video</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"bio.html\" data-toolbar=\"-mbrBtnMove\">Come on in!</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.youtube.com/watch?v=026brlElsCQ\" data-toolbar=\"-mbrBtnMove\">Imagine Dragons Video</a>    "
         },
         {
           "_inherit": "msg-box8",
